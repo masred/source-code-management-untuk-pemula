@@ -27,7 +27,7 @@ body {
 #footer {
   width: 100%;
   height: 50px;
-  position: absolute;
+  position: relative;
   bottom: 0;
   line-height: 50px;
   background-color: burlywood;
@@ -42,4 +42,8 @@ body {
   background-color: burlywood;
   text-align: center;
   color: white;
+}
+
+#profile-job {
+  text-align: center;
 }
